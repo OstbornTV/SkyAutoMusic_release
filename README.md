@@ -1,34 +1,29 @@
-# Sky: CotL AutoPlayer
+# Music AutoPlayer for PC
 
-<img src="https://i.imgur.com/ECSHtVm.png" alt="Sky: CotL AutoPlayer Logo" width="200">
+**Author:** Youcomposer and OstbornTV
 
-## Overview
+**Version:** 0.3.4
 
-Sky: CotL AutoPlayer is a convenient tool designed to automate the process of playing songs in the game "Sky: Children of the Light". Whether you're a solo player looking to enjoy some melodies while exploring the realms or a musician seeking to captivate your fellow Sky children, this autoplayer has got you covered.
+**Date:** 2024-12-06
 
-## Usage
+## Beschreibung
 
-Adding song to the AutoPlayer:
+Dieses Python-Tool simuliert Tasteneingaben auf Ihrem Computer, um Musiknoten automatisch abzuspielen. 
+Es unterstützt `.txt`- als auch `json` sowie `skysheets` interna-Dateien zur Definition der zu spielenden Noten und ermöglicht die Anpassung der Wiedergabegeschwindigkeit.
 
-Video - https://www.youtube.com/watch?v=rTW6vJFRYAM
+## Funktionen
 
-Text Version:
-1. Go to https://sky-music.herokuapp.com/songLibrary.html and choose a song then click the save button.
-2. Then go to https://sky-music.herokuapp.com/sheetDisplayer.html and choose the song you just saved.
-3. Now scroll down copy the text and paste it into a text file.
-4. Launch the Sky: Children of the Light game.
-5. Open Sky: CotL AutoPlayer, choose song then speed and click on the game within 3 seconds of pressing speed.
-6. To stop playing the song close the terminal.
+- **Dateiauswahl**: Wählen Sie eine `.txt` aus, die interna A1 A2.. etc hat, als auch `json`, `skysheets` format, die die Noten enthält.
+- **Geschwindigkeitsanpassung**: Wählen Sie die Wiedergabegeschwindigkeit aus, nachdem die Datei ausgewählt wurde (langsam, mittel, schnell).
+- **Automatisierte Eingaben**: Simuliert die Eingabe von Noten auf Ihrem Computer.
+- **Langer Tasten druck**: lange Tasten anschläge können beim program eingestellt werden.
 
-## Demo
+## Installation
 
-[![Link to Demo Video](https://img.youtube.com/vi/VoSr77cdwOY/0.jpg)](https://www.youtube.com/watch?v=VoSr77cdwOY)
+1. Laden Sie die Exe-Datei (SkyAutoMusic.exe) aus den Veröffentlichungen herunter.
+2. Installieren Sie die .exe, dahin wo sie das programm installieren wollen, folgen sie der anleitung
+3. Führen Sie die .exe durch einen Doppelklick auf SkyAutoMusic.exe aus.
+4. Folgen Sie den Anweisungen auf dem Bildschirm, um Musik auszuwählen und die Wiedergabe zu starten.
 
-
-## Contributing
-
-Contributions are welcome! If you have any suggestions for improvements or would like to report a bug, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MPL License - see the [LICENSE](LICENSE) file for details.
+## Enjoy
+Enjoy your musical journey in Sky: Children of the Light!
