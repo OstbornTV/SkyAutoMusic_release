@@ -6,24 +6,23 @@
 
 **Date:** 2024-12-06
 
-## Beschreibung
+## Description
 
-Dieses Python-Tool simuliert Tasteneingaben auf Ihrem Computer, um Musiknoten automatisch abzuspielen. 
-Es unterstützt `.txt`- als auch `json` sowie `skysheets` interna-Dateien zur Definition der zu spielenden Noten und ermöglicht die Anpassung der Wiedergabegeschwindigkeit.
+This Python-based tool simulates keystrokes on your computer to automatically play musical notes. It supports `.txt`, `.json`, and `skysheets` internal files for defining the notes to be played, allowing you to customize the playback speed.
 
-## Funktionen
+## Features
 
-- **Dateiauswahl**: Wählen Sie eine `.txt` aus, die interna A1 A2.. etc hat, als auch `json`, `skysheets` format, die die Noten enthält.
-- **Geschwindigkeitsanpassung**: Wählen Sie die Wiedergabegeschwindigkeit aus, nachdem die Datei ausgewählt wurde (langsam, mittel, schnell).
-- **Automatisierte Eingaben**: Simuliert die Eingabe von Noten auf Ihrem Computer.
-- **Langer Tasten druck**: lange Tasten anschläge können beim program eingestellt werden.
+- **File Selection**: Choose a `.txt` file containing notes in the format A1, A2, etc., or use `.json` and `.skysheets` files to define the musical notes.
+- **Playback Speed Adjustment**: Select your preferred playback speed (slow, medium, fast) after choosing the file.
+- **Automated Keystrokes**: Simulates the pressing of keys on your computer to play the notes automatically.
+- **Long Key Presses**: Customize the duration of key presses in the program settings.
 
 ## Installation
 
-1. Laden Sie die Exe-Datei (SkyAutoMusic.exe) aus den Veröffentlichungen herunter.
-2. Installieren Sie die .exe, dahin wo sie das programm installieren wollen, folgen sie der anleitung
-3. Führen Sie die .exe durch einen Doppelklick auf SkyAutoMusic.exe aus.
-4. Folgen Sie den Anweisungen auf dem Bildschirm, um Musik auszuwählen und die Wiedergabe zu starten.
+1. Download the executable file (SkyAutoMusic.exe) from the releases page.
+2. Install the .exe file to your preferred location, following the on-screen instructions.
+3. Run the program by double-clicking on SkyAutoMusic.exe.
+4. Follow the instructions on the screen to select your music file and start playback.
 
 ## Enjoy
-Enjoy your musical journey in Sky: Children of the Light!
+Enjoy your musical journey in *Sky: Children of the Light*!
