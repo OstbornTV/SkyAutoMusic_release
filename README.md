@@ -24,5 +24,9 @@ This Python-based tool simulates keystrokes on your computer to automatically pl
 3. Run the program by double-clicking on SkyAutoMusic.exe.
 4. Follow the instructions on the screen to select your music file and start playback.
 
+## Important
+and you would still have to manually rewrite the songs from the json, because the code does not yet read ‘2Key and or 3Key’.
+I wanted to do that at times, so it may be that when you download songs that have to be rewritten again to ‘Key’ instead of the previously mentioned.
+
 ## Enjoy
 Enjoy your musical journey in *Sky: Children of the Light*!
