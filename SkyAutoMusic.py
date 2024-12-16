@@ -304,10 +304,15 @@ class SkyAutoMusicPlayer:
                 
     def get_note_key(self, note: Dict) -> str:
         """Ersetzt den Key in der Datei durch das entsprechende Zeichen aus dem KEY_MAPPING."""
-        key = note["key"]
+        key = note.get("key") or note.get("1key") or note.get("2key")
+
         key_lower = key.lower()
-        mapped_key = KEY_MAPPING.get(key_lower.capitalize(), "")
-        return mapped_key
+
+        for k, v in KEY_MAPPING.items():
+            if any(key_lower == item.strip().lower() for item in k.split(",")):
+                return v
+
+        return ""
 
     def replace_sent(self, content: str) -> str:
         """Ersetzt Platzhalter durch entsprechende Zeichen.""" 

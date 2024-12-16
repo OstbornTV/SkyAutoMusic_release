@@ -14,9 +14,21 @@ REM Erstelle die JSON-Konfiguration
 (
     echo {
     echo     "key_mapping": {
-    echo         "Key0": "y", "Key1": "u", "Key2": "i", "Key3": "o", "Key4": "p",
-    echo         "Key5": "h", "Key6": "j", "Key7": "k", "Key8": "l", "Key9": ";",
-    echo         "Key10": "n", "Key11": "m", "Key12": ",", "Key13": ".", "Key14": "/"
+    echo         "Key0, 1Key0, 2Key0": "y",
+    echo         "Key1, 1Key1, 2Key1": "u",
+    echo         "Key2, 1Key2, 2Key2": "i",
+    echo         "Key3, 1Key3, 2Key3": "o",
+    echo         "Key4, 1Key4, 2Key4": "p",
+    echo         "Key5, 1Key5, 2Key5": "h",
+    echo         "Key6, 1Key6, 2Key6": "j",
+    echo         "Key7, 1Key7, 2Key7": "k",
+    echo         "Key8, 1Key8, 2Key8": "l",
+    echo         "Key9, 1Key9, 2Key9": ";",
+    echo         "Key10, 1Key10, 2Key10": "n",
+    echo         "Key11, 1Key11, 2Key11": "m",
+    echo         "Key12, 1Key12, 2Key12": ",",
+    echo         "Key13, 1Key13, 2Key13": ".",
+    echo         "Key14, 1Key14, 2Key14": "/"
     echo     },
     echo     "replacements": {
     echo         "A1": "y", "A2": "u", "A3": "i", "A4": "o", "A5": "p",
