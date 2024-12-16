@@ -4,7 +4,7 @@
 
 **Version:** 0.3.4.1
 
-**Date:** 2024-12-16
+**Date:** 16.12.2024
 
 ## Description
 
