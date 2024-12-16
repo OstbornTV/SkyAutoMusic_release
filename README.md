@@ -2,7 +2,7 @@
 
 **Author:** Youcomposer and OstbornTV
 
-**Version:** 0.3.4
+**Version:** 0.3.4.1
 
 **Date:** 2024-12-06
 
