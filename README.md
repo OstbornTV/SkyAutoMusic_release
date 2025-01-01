@@ -1,10 +1,16 @@
+# Notice of Archival
+
+Development on this project has been discontinued, and it is now archived. The creators have shifted focus to **Project Lyrica**, which demands significant time and effort. 
+
+### Looking Ahead
+
+While this project is no longer being updated, [**Project Lyrica**](https://github.com/OstbornTV/ProjectLyrica) may one day offer something similar or even more advanced. Keep an eye on [**Project Lyrica**](https://github.com/OstbornTV/ProjectLyrica) for potential future developments!
+
 # Music AutoPlayer for PC
 
-**Author:** Youcomposer and OstbornTV
-
-**Version:** 0.3.4.1
-
-**Date:** 16.12.2024
+**Author:** Youcomposer and OstbornTV  
+**Version:** 0.3.4.1  
+**Date:** 16.12.2024  
 
 ## Description
 
